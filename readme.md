@@ -13,3 +13,9 @@ Soma, Subtração, Divisão e Multiplicação
 * Javascript
 * Python
 * MongoDB
+
+## Funcionalidades a desenvolver:
+
+1. Histórico
+2. Função raiz quadrada
+3. Estilização de usuário
