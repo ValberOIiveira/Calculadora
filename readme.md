@@ -19,3 +19,5 @@ Soma, Subtração, Divisão e Multiplicação
 1. Histórico
 2. Função raiz quadrada
 3. Estilização de usuário
+
+![Logo do Python](img/Python_logo_and_wordmark.svg.png)
