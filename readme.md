@@ -6,3 +6,10 @@ Esta é uma calculdora simples feita em linguagem **Python** em que podemos reso
 
 Soma, Subtração, Divisão e Multiplicação
 
+## Linguagens do projeto:
+
+* HTML
+* CSS
+* Javascript
+* Python
+* MongoDB
