@@ -24,6 +24,8 @@ Soma, Subtração, Divisão e Multiplicação
     3. Diferentes temas de calculadora
     4. Acesso as estatísticas de usuário
 
+## Código da calculadora 
+
 ```python
 def soma(a, b):
  return a + b
