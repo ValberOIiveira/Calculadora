@@ -24,5 +24,8 @@ Soma, Subtração, Divisão e Multiplicação
     3. Diferentes temas de calculadora
     4. Acesso as estatísticas de usuário
 
+## Documentação do Python
+
+[Google](https://docs.python.org/pt-br/3/tutorial/)
 
 ![Logo do Python](img/Python_logo_and_wordmark.svg.png)
