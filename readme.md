@@ -43,6 +43,17 @@ def divisao(a, b):
         return "Erro: Divisão por zero!"
 ```
 
+
+
+## Lista de Tarefas
+
+- [X] Adicionar as funções das quatro operações
+- []  Adicionar perfil de usuário
+- [X] Atualizar formatações
+- []  Publicar no Medium
+
+
+
 ## Documentação do Python
 
 [Documentação do Python](https://docs.python.org/pt-br/3/tutorial/)
