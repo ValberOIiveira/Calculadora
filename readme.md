@@ -48,9 +48,9 @@ def divisao(a, b):
 ## Lista de Tarefas
 
 - [X] Adicionar as funções das quatro operações
-- []  Adicionar perfil de usuário
+- [ ]  Adicionar perfil de usuário
 - [X] Atualizar formatações
-- []  Publicar no Medium
+- [ ]  Publicar no Medium
 
 
 
